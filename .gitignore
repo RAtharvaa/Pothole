@@ -1,0 +1,8 @@
+yolov9_env/
+__pycache__/
+*.pt
+*.onnx
+*.mp4
+*.log
+venv/
+dataset/
